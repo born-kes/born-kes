@@ -1,5 +1,3 @@
-<img class="avatar rounded-2 avatar-user" src="https://avatars.githubusercontent.com/u/8461323?s=400&amp;u=e982d7f06bcc5f14edb875da17dac5c75e3eae4e&amp;v=4" alt="@born-kes" width="200" height="200" style="border-radius:100%">
-
 ## Hi there, I'm Lukas
 
 - I like people
@@ -13,7 +11,9 @@
 
 ## My stack and tools
 
-Basics
+<br />
+
+### #Basics
 
 <img align="left" width="32px" alt="Git" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 
@@ -23,7 +23,9 @@ Basics
 
 <img align="" width="32px" alt="Terminal" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
-Front-end
+<br />
+
+### #Front-end
 
 <img align="left" width="32px" alt="Node.js" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 
@@ -35,7 +37,7 @@ Front-end
 
 <img align="" width="0px" alt="Sass" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 
-Back-end
+### #Back-end
 
 <img align="left" width="32px" alt="PHP" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />
 
@@ -43,7 +45,9 @@ Back-end
 
 <img align="" width="32px" alt="WordPress" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png">
 
-Data
+<br />
+
+### #Data
 
 <img align="left" width="32px" alt="SQL" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 
@@ -55,11 +59,43 @@ Data
 
 <br/>
 
+### #Other
+
 <img align=""  width="32px" src="https://raw.githubusercontent.com/github/explore/2d218e3aa252dc90eef269b34eeec1fbd15dc07e/topics/docker/docker.png">
+
+## Methodology and Rulse
+
+- TDD
+- SOLID
+- DIP, IoC, Di
+- DRY, KISS, YAGNI
+
+## Design Patterns
+
+- Builder
+- Singleton
+- Abstract Factory
+
+<br />
+
+- Facade
+- Adapter
+- decorator
+
+<br />
+
+- Command
+- Observer
+- State
+
+<br/>
 
 ## Stats
 
 ![Born-kes Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=born-kes&layout=compact&theme=dark)
+
 ![Born-kes GitHub stats](https://github-readme-stats.vercel.app/api?username=born-kes&show_icons=true&theme=dark)
 
-[![Codewars](https://github.r2v.ch/codewars?user=%C5%81ukasz%20Mar&stroke=%23BB432C&top_languages=true)(LINK)]
+[link]: https://www.codewars.com/users/%C5%81ukasz%20Mar
+
+[![Codewars](https://github.r2v.ch/codewars?user=%C5%81ukasz%20Mar&stroke=%23BB432C&top_languages=true)][link]
