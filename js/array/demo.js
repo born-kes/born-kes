@@ -5,7 +5,7 @@ const str = '😊😆😂😍😇😎';
 console.log('Array', icons); //Array [ '😆', '😂', '😍', '😇', '😎' ]
 
 const arraySplit = str.split('');
-console.log('.split', arraySplit); //.split [ '😊', '😆', '😂', '😍', '😇', '😎' ]
+console.log('.split', arraySplit); //.split [  '\ud83d', '\ude0a', '\ud83d', '\ude06', '\ud83d', '\ude02', '\ud83d', '\ude0d', '\ud83d', '\ude07', '\ud83d', '\ude0e' ]
 
 const arrayIconFrom = Array.from(str);
 console.log('.from', arrayIconFrom); //.from [ '😊', '😆', '😂', '😍', '😇', '😎' ]
