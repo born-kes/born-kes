@@ -1,6 +1,9 @@
 [<= README.md](/README.md)
 
-console.log() output for the following code:
+---
+
+
+console.log() output for [demo.js](./demo.js) code:
 
 ```JavaScript
 Array      [ '😆', '😂', '😍', '😇', '😎' ]
